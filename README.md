@@ -10,43 +10,4 @@ The data is from ***Luke Barousse's*** course, which provides a foundation in an
 
 ![Project_1-Dashboard/image/Salary_Dashboard-Excel_Project.png](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/blob/3a47d12da1dcbe91938e3934bcfa66f5af5b99a9/Project_1-Dashboard/image/Salary_Dashboard-Excel_Project.png)
 
-My final dashboard is in [Salary Dashboard](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/blob/6ec2fb78cac0a0c003ca2f60be2fb61a960d08c8/Project_1-Dashboard/Salary%20Dashboard%20Project.xlsx)  
-
-### Excel Skills Used  
-The following Excel skills were used for analysis:
-
-- **📉 Charts**
-- **🧮 Formulas and Functions**
-- **❎ Data Validation**
-
-### Data Jobs Dataset
-
-The dataset used for this project contains real-world data science job information from 2023. It includes detailed information on:
-
-- **👨‍💼 Job titles**
-- **💰 Salaries**
-- **📍 Locations**
-- **🛠️ Skills**
-
-## Dashboard Build
-
-### 📉 Charts
-
-#### 📊 Data Science Job Salaries - Bar Chart
-
-<img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
-
-- 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
-- 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
-- 📉 **Data Organization:** Sorted job titles by descending salary for improved readability.
-- 💡 **Insights Gained:** This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
-
-#### 🗺️ Country Median Salaries - Map Chart
-
-![1_Salary_Dashboard_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
-
-- 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
-- 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
-- 📊 **Data Representation:** Plotted median salary for each country with available data.
-- 👁️ **Visual Enhancement:** Improved readability and immediate understanding of geographic salary trends.
-- 💡 **Insights Gained:** Enables quick grasp of global salary disparities and highlights high/low salary regions.
+Link to Project: [Salary Dashboard](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/tree/7a0c456e26ceba2cf7d373d733429629002b5680/Project_1-Dashboard)
