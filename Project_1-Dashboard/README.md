@@ -6,7 +6,7 @@ The data is from ***Luke Barousse's*** course, which provides a foundation in an
 
 ![Project_1-Dashboard/image/Salary_Dashboard-Excel_Project.png](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/blob/3a47d12da1dcbe91938e3934bcfa66f5af5b99a9/Project_1-Dashboard/image/Salary_Dashboard-Excel_Project.png)
 
-My final dashboard is in [...***Link to be updated***](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/blob/6ec2fb78cac0a0c003ca2f60be2fb61a960d08c8/Project_1-Dashboard/Salary%20Dashboard%20Project.xlsx)  
+My final dashboard is in [Salary Dashboard](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/blob/123c60c3a5bc13f0d477c2031db7dc6f0d781d49/Project_1-Dashboard/Salary%20Dashboard%20Project.xlsx)  
 
 ### Excel Skills Used  
 The following Excel skills were used for analysis:
