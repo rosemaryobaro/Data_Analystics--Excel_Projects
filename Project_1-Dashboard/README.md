@@ -1,8 +1,4 @@
-
-# Data_Analytics- Excel_Projects
-This README file contains projects demonstrating my analytical skills with Microsoft Excel. This file will walk you through the formulas, skills used, and processes taken to achieve the final results.  
-## Project 1- Salary Dashboard  
-
+## Salary Dashboard with Excel
 ### Introduction  
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
 
