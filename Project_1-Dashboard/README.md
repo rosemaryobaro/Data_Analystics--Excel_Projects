@@ -4,7 +4,7 @@ The data jobs salary dashboard was created to help job seekers investigate salar
 
 [Click Here to View Project](/Project_1-Dashboard/image/Salary_Dashboard-Excel_Project.png) 
 
-![Project_1-Dashboard/image/Salary_Dashboard-Excel_Project.png](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/blob/3a47d12da1dcbe91938e3934bcfa66f5af5b99a9/Project_1-Dashboard/image/Salary_Dashboard-Excel_Project.png)
+![Project_1-Dashboard/image/Salary_Dashboard-Excel_Project.png](/Project_1-Dashboard/image/Salary_Dashboard-Excel_Project.png)
 
 ### Excel Skills Used  
 The following Excel skills were used for analysis:
