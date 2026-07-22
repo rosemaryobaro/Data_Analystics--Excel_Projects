@@ -2,7 +2,7 @@
   
 The data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.  
 
-My final dashboard is in [Salary Dashboard](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/blob/123c60c3a5bc13f0d477c2031db7dc6f0d781d49/Project_1-Dashboard/Salary%20Dashboard%20Project.xlsx) 
+[Click Here to View Project](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/blob/123c60c3a5bc13f0d477c2031db7dc6f0d781d49/Project_1-Dashboard/Salary%20Dashboard%20Project.xlsx) 
 
 ![Project_1-Dashboard/image/Salary_Dashboard-Excel_Project.png](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/blob/3a47d12da1dcbe91938e3934bcfa66f5af5b99a9/Project_1-Dashboard/image/Salary_Dashboard-Excel_Project.png)
 
@@ -104,3 +104,5 @@ IF(
 ## Conclusion
 
 This dashboard showcases insights into salary trends across various data-related job titles. Using the data provided, the dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+
+[Click Here to View Project](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/blob/123c60c3a5bc13f0d477c2031db7dc6f0d781d49/Project_1-Dashboard/Salary%20Dashboard%20Project.xlsx) 
