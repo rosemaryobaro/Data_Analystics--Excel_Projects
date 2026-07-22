@@ -70,7 +70,7 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
+![1_Salary_Dashboard_Screenshot1.png](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/blob/3d174742be9af403f13decbc7ccb199aa0310ec8/Project_1-Dashboard/image/1_Salary_Dashboard_Screenshot1.png))
 
 📉 Dashboard Implementation
 
