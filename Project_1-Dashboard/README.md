@@ -1,12 +1,10 @@
 ## Salary Dashboard with Excel
-### Introduction  
-This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
+  
+The data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.  
 
-The data is from ***Luke Barousse's*** course, which provides a foundation in analyzing data using Microsoft Excel. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
+My final dashboard is in [Salary Dashboard](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/blob/123c60c3a5bc13f0d477c2031db7dc6f0d781d49/Project_1-Dashboard/Salary%20Dashboard%20Project.xlsx) 
 
 ![Project_1-Dashboard/image/Salary_Dashboard-Excel_Project.png](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/blob/3a47d12da1dcbe91938e3934bcfa66f5af5b99a9/Project_1-Dashboard/image/Salary_Dashboard-Excel_Project.png)
-
-My final dashboard is in [Salary Dashboard](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/blob/123c60c3a5bc13f0d477c2031db7dc6f0d781d49/Project_1-Dashboard/Salary%20Dashboard%20Project.xlsx)  
 
 ### Excel Skills Used  
 The following Excel skills were used for analysis:
@@ -28,24 +26,24 @@ The dataset used for this project contains real-world data science job informati
 
 ### 1. 📉 Charts
 
-#### 📊 Data Science Job Salaries - Bar Chart
+#### 📊 Bar Chart- Data Science Job Salaries  
 
 <img src="/Project_1-Dashboard/image/Job_Title_Chart.png" alt="Salary Dashboard Bar Chart1">
 
-- 🛠️ **Excel Features:** Used bar chart feature (with formatted salary values) and optimized layout for clarity.
-- 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
-- 📉 **Data Organization:** Sorted job titles by descending salary for improved readability.
-- 💡 **Insights Gained:** This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
+- **Excel Features:** Used bar chart feature (with formatted salary values) and optimized layout for clarity.
+- **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
+- **Data Organization:** Sorted job titles by descending salary for improved readability.
+- **Insights Gained:** This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
-#### 🗺️ Country Median Salaries - Map Chart
+#### 🗺️ Map Chart- Country Median Salaries
 
 ![1_Salary_Dashboard_Chart2.png](/Project_1-Dashboard/image/Country_Map_Chart.png)
 
-- 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
-- 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
-- 📊 **Data Representation:** Plotted median salary for each country with available data.
-- 👁️ **Visual Enhancement:** Improved readability and immediate understanding of geographic salary trends.
-- 💡 **Insights Gained:** Enables quick grasp of global salary disparities and highlights high/low salary regions.
+- **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
+- **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
+- **Data Representation:** Plotted median salary for each country with available data.
+- **Visual Enhancement:** Improved readability and immediate understanding of geographic salary trends.
+- **Insights Gained:** Enables quick grasp of global salary disparities and highlights high/low salary regions.
 
 ### 2. 🧮 Formulas and Functions
 
@@ -63,18 +61,18 @@ IF(
 )
 ```
 
-- 🔍 **Multi-Criteria Filtering:** Checks job title, country, schedule type, and excludes blank salaries.
-- 📊 **Array Formula:** Utilizes `MEDIAN()` function with nested `IF()` statement to analyze an array.
-- 🎯 **Tailored Insights:** Provides specific salary information for job titles, regions, and schedule types.
-- **🔢 Formula Purpose:** This formula populates the table below, returning the median salary based on job title, country, and type specified.
+- **Multi-Criteria Filtering:** Checks job title, country, schedule type, and excludes blank salaries.
+- **Array Formula:** Utilizes `MEDIAN()` function with nested `IF()` statement to analyze an array.
+- **Tailored Insights:** Provides specific salary information for job titles, regions, and schedule types.
+- **Formula Purpose:** This formula populates the table below, returning the median salary based on job title, country, and type specified.
 
-🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/blob/3d174742be9af403f13decbc7ccb199aa0310ec8/Project_1-Dashboard/image/1_Salary_Dashboard_Screenshot1.png))
+![1_Salary_Dashboard_Screenshot1.png](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/blob/3d174742be9af403f13decbc7ccb199aa0310ec8/Project_1-Dashboard/image/1_Salary_Dashboard_Screenshot1.png)  
+*Background Table*  
 
-📉 Dashboard Implementation
+<img src="/Project_1-Dashboard/image/Job_Title_Salary_Chart.png"  alt="Salary Dashboard Title">  
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+*Dashboard Implementation*
 
 #### ⏰ Count of Job Schedule Type
 
@@ -82,28 +80,27 @@ IF(
 =FILTER(J2#,(NOT(ISNUMBER(SEARCH("and",J2#))+ISNUMBER(SEARCH(",",J2#))))*(J2#<>0))
 ```
 
-- 🔍 **Unique List Generation:** This Excel formula below employs the `FILTER()` function to exclude entries containing "and" or commas, and omit zero values.
-- **🔢 Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
+- **Unique List Generation:** This Excel formula below employs the `FILTER()` function to exclude entries containing "and" or commas, and omit zero values.
+- **Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
 
-🍽️ Background Table
+![1_Salary_Dashboard_Type.png](/Project_1-Dashboard/image/Job_Type_Salary_Table.png)  
+*Background Table*  
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
+<img src="/Project_1-Dashboard/image/Job_schedule_chart.png" alt="Salary Dashboard Type">  
 
-📉 Dashboard Implementation:
+*Dashboard Implementation*  
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
-
-### ❎ Data Validation
+### 3. ❎ Data Validation
 
 #### 🔍 Filtered List
 
-- 🔒 **Enhanced Data Validation:** Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:
-    - 🎯 User input is restricted to predefined, validated schedule types
-    - 🚫 Incorrect or inconsistent entries are prevented
-    - 👥 Overall usability of the dashboard is enhanced
+- **Enhanced Data Validation:** Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:
+    - User input is restricted to predefined, validated schedule types
+    - Incorrect or inconsistent entries are prevented
+    - Overall usability of the dashboard is enhanced
 
 <img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
 ## Conclusion
 
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Using the data provided, the dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+This dashboard showcases insights into salary trends across various data-related job titles. Using the data provided, the dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
