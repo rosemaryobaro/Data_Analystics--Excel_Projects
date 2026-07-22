@@ -10,4 +10,4 @@ The data is from ***Luke Barousse's*** course, which provides a foundation in an
 
 ![Project_1-Dashboard/image/Salary_Dashboard-Excel_Project.png](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/blob/3a47d12da1dcbe91938e3934bcfa66f5af5b99a9/Project_1-Dashboard/image/Salary_Dashboard-Excel_Project.png)
 
-Link to Project: [Salary Dashboard](https://github.com/rosemaryobaro/Data_Analystics--Excel_Projects/tree/7a0c456e26ceba2cf7d373d733429629002b5680/Project_1-Dashboard)
+Link to Project: [Salary Dashboard](/Project_1-Dashboard)
