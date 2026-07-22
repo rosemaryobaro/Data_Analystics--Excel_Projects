@@ -26,7 +26,7 @@ The dataset used for this project contains real-world data science job informati
 
 ## Dashboard Build
 
-### 📉 Charts
+### 1. 📉 Charts
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
@@ -39,7 +39,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![1_Salary_Dashboard_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
+![1_Salary_Dashboard_Chart2.png](/Project_1-Dashboard/image/Country_Map_Chart.png)
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -47,7 +47,7 @@ The dataset used for this project contains real-world data science job informati
 - 👁️ **Visual Enhancement:** Improved readability and immediate understanding of geographic salary trends.
 - 💡 **Insights Gained:** Enables quick grasp of global salary disparities and highlights high/low salary regions.
 
-### 🧮 Formulas and Functions
+### 2. 🧮 Formulas and Functions
 
 #### 💰 Median Salary by Job Titles
 
