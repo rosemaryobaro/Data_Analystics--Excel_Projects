@@ -85,11 +85,11 @@ IF(
 
 **Background Table8**  
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)  
+![1_Salary_Dashboard_Type.png](/Project_1-Dashboard/image/Job_Type_Salary_Table.png)  
 
 ***📉 Dashboard Implementation:***  
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">  
+<img src="/Project_1-Dashboard/image/Job_Type_Salary_Table.png" alt="Salary Dashboard Type">  
 
 ### 3. ❎ Data Validation
 
