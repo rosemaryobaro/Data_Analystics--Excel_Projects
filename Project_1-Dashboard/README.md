@@ -83,13 +83,12 @@ IF(
 - **Unique List Generation:** This Excel formula below employs the `FILTER()` function to exclude entries containing "and" or commas, and omit zero values.
 - **Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
 
-**Background Table8**  
-
 ![1_Salary_Dashboard_Type.png](/Project_1-Dashboard/image/Job_Type_Salary_Table.png)  
+*Background Table*  
 
-***📉 Dashboard Implementation:***  
+<img src="/Project_1-Dashboard/image/Job_schedule_chart.png" alt="Salary Dashboard Type">  
 
-<img src="/Project_1-Dashboard/image/Job_Type_Salary_Table.png" alt="Salary Dashboard Type">  
+*Dashboard Implementation*  
 
 ### 3. ❎ Data Validation
 
@@ -104,4 +103,4 @@ IF(
 
 ## Conclusion
 
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Using the data provided, the dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+This dashboard showcases insights into salary trends across various data-related job titles. Using the data provided, the dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
